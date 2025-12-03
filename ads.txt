@@ -156,6 +156,6 @@ openx.com, 559680764, RESELLER
 sharethrough.com, a6a34444, RESELLER
 smartadserver.com, 5277, DIRECT, 060d053dcf45cbf3
 trustedstack.com, TSUKNZU26, DIRECT
-
+google.com, pub-6445234841753687, RESELLER, f08c47fec0942fa0
 
 
